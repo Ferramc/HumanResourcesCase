@@ -25,4 +25,6 @@
 
 ### Para finalizar, podemos ver que el área más rentable es el de producción, los principales puntos donde los trabajadores laboran son las costas o fronteras, en el centro del país no hay actividad económica de esta empresa y la mayoría de los empleados tienen buen desempeño laboral lo que nos dice que existe un buen ambiente empresarial. 
 
+### https://public.tableau.com/app/profile/fernanda.calleja/viz/HumanResourcesAnalysis_17343203482490/HRAnalytics
+
 
